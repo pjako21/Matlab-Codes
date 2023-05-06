@@ -1,6 +1,6 @@
 function xdot = vdv_ode(t, x)
 %
-% Solventhe two differential equations modeling
+% Solves the two differential equations modeling
 % the van de vusse reaction
 %scheme in an isothermal CSTR. The are the concentration
 % of A and B in the reactor.
